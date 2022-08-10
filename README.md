@@ -1,6 +1,6 @@
 ### Hello, I'm Xyra👩‍💻
 
-#I'm a Graphic Designer, 3D Artist,
+# I'm a Graphic Designer, 3D Artist,
 and an Aspiring Web Developer! 
 
 <!--
