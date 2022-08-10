@@ -7,7 +7,7 @@
 - 💭 Ask me about anything 
 - 📈 I invest in cryptorurrency 
 - 👩 Pronouns: She/Her
-- ⚡ Fun Fact: 
+- ⚡ Fun Fact: I love Kimchi Fried Rice
 - 💬 Ask me about anything
 
 
