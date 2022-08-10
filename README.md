@@ -16,7 +16,7 @@
 <br>
 <br>
 
-<h2><img src="https://github.com/Jlscsr/Illustrations/blob/main/statistics.gif" width="45">Github Profile Stats</h2>
+<h2><img src="https://github.com/divavocado/Illustrations/blob/main/statistics.gif" width="45">Github Profile Stats</h2>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jlscsr&theme=radical"></p>
 
