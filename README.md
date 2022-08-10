@@ -11,7 +11,7 @@
 - 💬 Ask me about anything
 
 
-
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit01-beep&layout=compact)](https://github.com/mohit01-beep/github-readme-stats)
 
 
 <!--
