@@ -4,7 +4,7 @@
 
 - 🔭 I’m still improving my coding knowledge
 - 🌱 I’m currently learning HTML, CSS & JavaScript 
-- 💭 Ask me about anything 
+- 💭 Feel free to ask me about anything 
 
 - 👩 Pronouns: She/Her
 
