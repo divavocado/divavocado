@@ -1,6 +1,17 @@
 ### Hello, I'm Xyra👩‍💻
 
-# I'm a Graphic Designer, 3D Artist, and an Aspiring Web Developer!
+# I'm an Artist and an aspiring Developer!
+
+• 🔭 I’m still improving my coding knowledge
+• 🌱 I’m currently learning HTML, CSS & JavaScript 
+• 💭 Ask me about anything 
+• 📈 I invest in cryptorurrency 
+• 👩 Pronouns: She/Her
+• ⚡ Fun Fact: 
+• 💬 Ask me about anything
+
+
+
 
 
 <!--
