@@ -2,7 +2,7 @@
 
 # I'm an Artist and an aspiring Developer!
 
-- 🔭 I’m still improving my coding knowledge
+- 💪 I'm still learning
 - 🌱 I’m currently learning HTML, CSS & JavaScript 
 - 💭 Feel free to ask me about anything 
 
