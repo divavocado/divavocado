@@ -5,12 +5,8 @@
 
 # I'm an Artist and an aspiring Developer!
 
-🥑 About me:
 - 🍄 I'm still learning
-- 🌱 I’m currently learning HTML, CSS & JavaScript 
-- 💭 Feel free to ask me about anything 
-
-- 👩 Pronouns: She/Her
+- 🌱 I’m currently learning HTML, CSS & JavaScript
 
 
 ###  &nbsp; <img src="https://github.com/divavocado/divavocado/blob/200da15d57fc02a738252e5657e9d22b84640561/plant-plants.gif" width="30"> My Stats :
