@@ -12,9 +12,9 @@
 ###  &nbsp; <img src="https://github.com/divavocado/divavocado/blob/14e8b454f5b9808a67c8d8a11fde2851310dfe6d/images/plant-plants.gif" width="30"> My Progress :
 <div id="images" align="center">
   <img src="https://github.com/divavocado/divavocado/blob/14e8b454f5b9808a67c8d8a11fde2851310dfe6d/images/progress.png" width="400"/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divavocado&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divavocado&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center"><img src="https://komarev.com/ghpvc/?username=divavocado&style=flat-square&color=blue" alt=""></p>
 
 
