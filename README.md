@@ -5,6 +5,7 @@
 
 # I'm an Artist and an aspiring Developer!
 
+# About me:
 - 💪 I'm still learning
 - 🌱 I’m currently learning HTML, CSS & JavaScript 
 - 💭 Feel free to ask me about anything 
@@ -12,8 +13,10 @@
 - 👩 Pronouns: She/Her
 
 
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divavocado&layout=compact)](https://github.com/divavocado/github-readme-stats)
+### :fire: My Stats :
+(https://github-readme-streak-stats.herokuapp.com/?user=your-github-divavocado)
+<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-divavocado&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
