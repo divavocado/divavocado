@@ -1,6 +1,6 @@
 <h1>HELLO<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I AM</h1>
 <div id="header" align="center">
-  <img src="https://github.com/divavocado/divavocado/blob/669a50c2c5cb80c07b3bb720e9a08655409344bf/chrome-night%20(1)-min.gif" width="400"/>
+  <img src="https://github.com/divavocado/divavocado/blob/481b4fde4e80c6ddf4353b997c70a2f5d1277f8f/IMG_20220811_163821.png" width="400"/>
 </div>
 
 # I'm an Artist and an aspiring Developer! <img src="https://github.com/divavocado/divavocado/blob/2e441afa674c4bc5ab9224cab7cec916685450d1/funny-computer-animated-gif-29.gif" width="50"/>
