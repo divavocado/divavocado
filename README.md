@@ -10,7 +10,9 @@
 
 
 ###  &nbsp; <img src="https://github.com/divavocado/divavocado/blob/200da15d57fc02a738252e5657e9d22b84640561/plant-plants.gif" width="30"> My Progress :
-
+<div id="images" align="center">
+  <img src="https://github.com/divavocado/divavocado/blob/bc525fdf27c0fe197e4deabccbacf7f4a648c9b8/images/progress.png" width="400"/>
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divavocado&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center"><img src="https://komarev.com/ghpvc/?username=divavocado&style=flat-square&color=blue" alt=""></p>
 
