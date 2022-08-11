@@ -1,6 +1,5 @@
-### Hello, I'm Xyra👩‍💻
-
 <div id="header" align="center">
+  <h1>Hello, I am</h1>
   <img src="https://github.com/divavocado/divavocado/blob/669a50c2c5cb80c07b3bb720e9a08655409344bf/chrome-night%20(1)-min.gif" width="500"/>
 </div>
 
