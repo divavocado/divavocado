@@ -3,7 +3,7 @@
   <img src="https://github.com/divavocado/divavocado/blob/669a50c2c5cb80c07b3bb720e9a08655409344bf/chrome-night%20(1)-min.gif" width="500"/>
 </div>
 
-# I'm an Artist and an aspiring Developer <img src="https://github.com/divavocado/divavocado/blob/2e441afa674c4bc5ab9224cab7cec916685450d1/funny-computer-animated-gif-29.gif" width="50"/>!
+# I'm an Artist and an aspiring Developer! <img src="https://github.com/divavocado/divavocado/blob/2e441afa674c4bc5ab9224cab7cec916685450d1/funny-computer-animated-gif-29.gif" width="50"/>
 
 - 🍄 3D and Graphics
 - 🌱 I’m currently learning JavaScript
