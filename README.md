@@ -1,5 +1,9 @@
 ### Hello, I'm Xyra👩‍💻
 
+<div id="header" align="center">
+  <img src="https:/chrome-night (1)-min.gif" width="100"/>
+</div>
+
 # I'm an Artist and an aspiring Developer!
 
 - 💪 I'm still learning
