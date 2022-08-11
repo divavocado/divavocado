@@ -5,8 +5,8 @@
 
 # I'm an Artist and an aspiring Developer!
 
-# 🍄About me:
-- 🪵 I'm still learning
+🥑About me:
+- 🍄 I'm still learning
 - 🌱 I’m currently learning HTML, CSS & JavaScript 
 - 💭 Feel free to ask me about anything 
 
