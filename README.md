@@ -8,7 +8,6 @@
 
 - 👩 Pronouns: She/Her
 
-- 💬 Ask me about anything
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divavocado&layout=compact)](https://github.com/divavocado/github-readme-stats)
