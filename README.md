@@ -11,7 +11,7 @@
 
 ###  &nbsp; <img src="https://github.com/divavocado/divavocado/blob/14e8b454f5b9808a67c8d8a11fde2851310dfe6d/images/plant-plants.gif" width="30"> My Progress :
 <div id="images" align="center">
-  <img src="https://github.com/divavocado/divavocado/blob/b47512774df5172ce1de39a26346fe603b6c0d89/images/progress.png" width="400"/>
+  <img src="https://github.com/divavocado/divavocado/blob/c4a88b4be536d0d69718d66a4d1ef6e60ea5658c/images/progress.png" width="400"/>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divavocado&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
