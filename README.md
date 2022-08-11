@@ -5,7 +5,7 @@
 
 # I'm an Artist and an aspiring Developer!
 
-- 🍄 I'm still learning
+- 🍄 3D and Graphics
 - 🌱 I’m currently learning HTML, CSS & JavaScript
 
 
