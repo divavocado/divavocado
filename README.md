@@ -9,9 +9,8 @@
 - 🌱 I’m currently learning JavaScript
 
 
-###  &nbsp; <img src="https://github.com/divavocado/divavocado/blob/14e8b454f5b9808a67c8d8a11fde2851310dfe6d/images/plant-plants.gif" width="30"> My Progress :
+###  &nbsp; <img src="https://github.com/divavocado/divavocado/blob/14e8b454f5b9808a67c8d8a11fde2851310dfe6d/images/plant-plants.gif" width="30"> My Stats :
 <div id="images" align="center">
-  <img src="https://github.com/divavocado/divavocado/blob/9a51345bd5fd4083bdcfd8ea65eb29f88d634f6b/images/progress.png" width="400"/>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divavocado&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
