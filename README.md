@@ -12,9 +12,7 @@
 ###  &nbsp; <img src="https://github.com/divavocado/divavocado/blob/14e8b454f5b9808a67c8d8a11fde2851310dfe6d/images/plant-plants.gif" width="30"> My Stats :
 <div id="images" align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divavocado&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=divavocado&style=flat-square&color=blue" alt=""></p>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=divavocado&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
