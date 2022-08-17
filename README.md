@@ -13,6 +13,8 @@
 <div id="images" width="300" align="center">
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=xyrasanlorenzo&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
 
 
 
