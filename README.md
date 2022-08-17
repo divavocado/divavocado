@@ -10,8 +10,8 @@
 
 
 ###  &nbsp; <img src="https://github.com/divavocado/divavocado/blob/14e8b454f5b9808a67c8d8a11fde2851310dfe6d/images/plant-plants.gif" width="30"> Activity Graph :
-<div id="images" align="center">
-  
+<div id="images" width="300" align="center">
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=xyrasanlorenzo&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
