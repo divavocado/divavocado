@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Xy ✨ Aspiring Full-Stack & Creative Web Developer</h3>
+<h3 align="center">Hi, I'm Xy ✨ Aspiring Full-Stack and Creative Web Developer</h3>
 
 <div align="center">
 Languages And Tools :
@@ -12,6 +12,9 @@ Languages And Tools :
 <img alt="AI" width="30px" src="https://github.com/xyrasanlorenzo/xyrasanlorenzo/blob/ef86fa03c36df020744c92c771880b6af78731a9/images/illustrator_logo.png" />
 </div><br>
 
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/d7490794a2d042e6eb6a434616022fe17f075368c31740e69bf1b3cb0acb273f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyrasanlorenzo;layout=compact" style="max-width: 100%;"></a>
+</div
 
 
 
