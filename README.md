@@ -9,8 +9,9 @@
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Blender" width="30px" src="[https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png](https://javiscomputers.com/blender_logo_no_text-svg/)" />
-<img align="left" alt="Blender" width="30px" src="[[https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png](https://javiscomputers.com/blender_logo_no_text-svg/)](https://www.cadguru.si/wp-content/uploads/2017/10/illustrator_logo.png)" />
+<img align="left" alt="Blender" width="30px" src="https://github.com/xyrasanlorenzo/xyrasanlorenzo/blob/2c5613e1c0a5dc292261cb39fc1cd8349208b8bb/images/Blender_logo_no_text.svg_.png" />
+<img align="left" alt="Photoshop" width="30px" src="https://github.com/xyrasanlorenzo/xyrasanlorenzo/blob/2c5613e1c0a5dc292261cb39fc1cd8349208b8bb/images/photoshop-logo-0.png" />
+<img align="left" alt="https://github.com/xyrasanlorenzo/xyrasanlorenzo/blob/2c5613e1c0a5dc292261cb39fc1cd8349208b8bb/images/illustrator_logo.png" />
 
 
 
