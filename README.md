@@ -12,8 +12,7 @@
   </a>
 </div>
 
-<details>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyrasanlorenzo&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyrasanlorenzo&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
 
 
