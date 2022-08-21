@@ -12,10 +12,6 @@ Languages And Tools :
 <img alt="AI" width="30px" src="https://github.com/xyrasanlorenzo/xyrasanlorenzo/blob/ef86fa03c36df020744c92c771880b6af78731a9/images/illustrator_logo.png" />
 </div><br>
 
-<div align="center">
-  [![Top Langs](src= "https://github-readme-stats.vercel.app/api/top-langs/?username=xyrasanlorenzo&layout=compact&theme=vision-friendly-dark")](https://github.com/anuraghazra/github-readme-stats)
-</div><br>
-
 
 
 
