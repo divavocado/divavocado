@@ -3,7 +3,7 @@
 <div align="center">
 <h4>Web Developer:</h4>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,html,css" width= "30"/>
   </a>
 
 <h4>Designer:</h4> 
