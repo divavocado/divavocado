@@ -3,12 +3,12 @@
 <div align="center">
 <h4>Web Developer:</h4>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" width= "70"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css" width= "100"/>
   </a>
 
 <h4>Designer:</h4> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,ae,ps,ai" />
+    <img src="https://skillicons.dev/icons?i=blender,ae,ps,ai" width= "100"/>
   </a>
 </div>
 
