@@ -11,7 +11,7 @@
 <img align="left" alt="JS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Blender" width="28px" src="https://github.com/xyrasanlorenzo/xyrasanlorenzo/blob/2c5613e1c0a5dc292261cb39fc1cd8349208b8bb/images/Blender_logo_no_text.svg_.png" />
 <img align="left" alt="Photoshop" width="30px" src="https://github.com/xyrasanlorenzo/xyrasanlorenzo/blob/2c5613e1c0a5dc292261cb39fc1cd8349208b8bb/images/photoshop-logo-0.png" />
-<img align="left" alt="Photoshop" width="30px" src="[https://github.com/xyrasanlorenzo/xyrasanlorenzo/blob/2c5613e1c0a5dc292261cb39fc1cd8349208b8bb/images/photoshop-logo-0.png](https://github.com/xyrasanlorenzo/xyrasanlorenzo/blob/2c5613e1c0a5dc292261cb39fc1cd8349208b8bb/images/illustrator_logo.png)" />
+<img align="left" alt="AI" width="30px" src="https://github.com/xyrasanlorenzo/xyrasanlorenzo/blob/ef86fa03c36df020744c92c771880b6af78731a9/images/illustrator_logo.png" />
 
 
 
