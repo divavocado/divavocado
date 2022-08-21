@@ -2,11 +2,15 @@
 
 <div align="center">
 <h4>Web developer:</h4>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css" />
+  </a>
 
-<h4>designer:</h4>
-[![My Skills](https://skillicons.dev/icons?i=blender,ae,ps,ai)](https://skillicons.dev)
-</div
+<h4>designer:</h4> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,ae,ps,ai" />
+  </a>
+</div>
 
 
 
