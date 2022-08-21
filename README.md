@@ -13,13 +13,7 @@
 </div>
 
 <details>
-  <summary>Github Stats🍄</summary>
-
- <div align="center">
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=xyrasanlorenzo&theme=blueberry&count_private=true&hide_border=true&line_width=30)</a><br>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyrasanlorenzo&layout=compact&theme=blueberry&count_private=true&hide_border=truewidth=50)</a>
-</details>
- </div>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyrasanlorenzo&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
 
 
