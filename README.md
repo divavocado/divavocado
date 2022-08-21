@@ -10,10 +10,10 @@ Languages And Tools :
 <img alt="Blender" width="28px" src="https://github.com/xyrasanlorenzo/xyrasanlorenzo/blob/2c5613e1c0a5dc292261cb39fc1cd8349208b8bb/images/Blender_logo_no_text.svg_.png" />
 <img alt="Photoshop" width="32px" src="https://github.com/xyrasanlorenzo/xyrasanlorenzo/blob/2c5613e1c0a5dc292261cb39fc1cd8349208b8bb/images/photoshop-logo-0.png" />
 <img alt="AI" width="30px" src="https://github.com/xyrasanlorenzo/xyrasanlorenzo/blob/ef86fa03c36df020744c92c771880b6af78731a9/images/illustrator_logo.png" />
-</div>
+</div><br>
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyrasanlorenzo&layout=compact)](https://github.com/xyrasanlorenzo/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyrasanlorenzo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div><br>
 
 
