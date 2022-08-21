@@ -13,7 +13,7 @@ Languages And Tools :
 </div><br>
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyrasanlorenzo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](src= "https://github-readme-stats.vercel.app/api/top-langs/?username=xyrasanlorenzo&layout=compact&theme=vision-friendly-dark")](https://github.com/anuraghazra/github-readme-stats)
 </div><br>
 
 
