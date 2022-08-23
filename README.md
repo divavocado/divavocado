@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Xy ✨ Aspiring Full-Stack and Creative Web Developer</h1>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C847&center=true&width=435&lines=Learning+JavaScript)](https://git.io/typing-svg)
 <div align="center">
 <h2>Web Developer:</h2>
  <a href="https://skillicons.dev">
