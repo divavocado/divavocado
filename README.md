@@ -14,7 +14,7 @@
 
 <h2>Designer:</h2> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,ae,ps,ai" />
+    <img src="https://skillicons.dev/icons?i=blender,ae,ps,ai,figma" />
   </a>
  </div>
 
